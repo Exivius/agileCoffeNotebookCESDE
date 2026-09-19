@@ -1,6 +1,4 @@
-# Sprint 1
-
-## Historias de usuario a trabajar
+# Historias de Usuario
 
 **US-18.1**
 Épica: Infraestructura técnica y despliegue
